@@ -1,4 +1,4 @@
-# OFRP device tree for Redmi K20 Pro (raphael)
+# AERA Recovery Project device tree for Redmi K20 Pro (raphael)
 
 ```
 #
